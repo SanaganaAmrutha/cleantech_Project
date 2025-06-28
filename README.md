@@ -1,4 +1,4 @@
-# cleantech_Project
+# CleanTech
 # CleanTech: Transforming Waste Management with Transfer Learning
 
 CleanTech is a deep learning-based web application designed to automate waste classification using transfer learning. It classifies images into three categories: **Biodegradable**, **Recyclable**, and **Trash**, supporting better waste segregation and sustainable waste management.
